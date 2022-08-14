@@ -10,7 +10,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import os
 
-os.chdir(r"C:\Users\heena\Downloads")
+#os.chdir(r"...")
 
 df=pd.read_csv("hypothyroid.csv")
 
